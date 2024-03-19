@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '33300'
     url: http://www.gutenberg.org/2009/agents/33300
     wikipedia: https://en.wikipedia.org/wiki/George_Thomas_Bettany
+covers:
+- cover_type: archival
+  image_path: 72971-h/images/cover.jpg
 creator:
   author:
     agent_name: Kernahan, Coulson
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46475
     wikipedia: https://en.wikipedia.org/wiki/Coulson_Kernahan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72971#A-Dead-Man-s-Diary-Written-After-His-Decease
 gutenberg_issued: '2024-02-16'
 gutenberg_type: Text
 identifiers:
